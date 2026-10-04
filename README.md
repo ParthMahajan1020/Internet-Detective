@@ -158,6 +158,6 @@ Always verify important findings using trusted security and intelligence sources
 * BTech Student | Full-Stack Web Development & DSA
 * LinkedIn: [https://www.linkedin.com/in/parth-mahajan1020/](https://www.linkedin.com/in/parth-mahajan1020/)
 * GitHub: [https://github.com/ParthMahajan1020](https://github.com/ParthMahajan1020)
-* Email: [parth.mahajan1020@example.com](mailto:parth.mahajan1020@example.com)
+* Email: [parth.mahajan1020@example.com](mailto:parth.mahajan1020@gmail.com)
 * Passionate about building console applications, learning new programming languages, and exploring software projects.
 
